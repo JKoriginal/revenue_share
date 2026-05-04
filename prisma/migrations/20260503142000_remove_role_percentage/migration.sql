@@ -1,1 +1,1 @@
-ALTER TABLE `role` DROP COLUMN `percentage`;
+ALTER TABLE `Role` DROP COLUMN `percentage`;
